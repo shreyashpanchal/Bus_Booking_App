@@ -12,13 +12,13 @@ The Bus Booking App is a web application that allows users to search for bus rou
 * Admin panel for managing bus routes, schedules, and users
 
 # Technologies Used
-Frontend: React.js, HTML, CSS
-Backend: Node.js, Express.js
-Database: MongoDB
-Authentication: JSON Web Tokens (JWT)
-Payment Integration: [Payment Gateway Provider]
+* Frontend: React.js, HTML, CSS
+* Backend: Node.js, Express.js
+* Database: MongoDB
+* Authentication: JSON Web Tokens (JWT)
+* Payment Integration: [Payment Gateway Provider]
 
 # Getting Started
-Prerequisites
-Node.js and npm (Node Package Manager) installed globally
-MongoDB instance or connection string
+* Prerequisites
+* Node.js and npm (Node Package Manager) installed globally
+* MongoDB instance or connection string
