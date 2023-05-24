@@ -16,7 +16,7 @@ The Bus Booking App is a web application that allows users to search for bus rou
 * Backend: Node.js, Express.js
 * Database: MongoDB
 * Authentication: JSON Web Tokens (JWT)
-* Payment Integration: [Payment Gateway Provider]
+* Payment Integration: Stripe Payment
 
 # Getting Started
 * Prerequisites
