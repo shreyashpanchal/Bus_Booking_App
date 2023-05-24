@@ -3,12 +3,13 @@
 The Bus Booking App is a web application that allows users to search for bus routes, view available seats, and book tickets for their desired journey.
 
 # Features
-User registration and authentication
-Search for bus routes based on source and destination
-View available bus options and their details
-Select seats and book tickets
-View and manage booked tickets
-Admin panel for managing bus routes, schedules, and users
+
+* User registration and authentication
+* Search for bus routes based on source and destination
+* View available bus options and their details
+* Select seats and book tickets
+* View and manage booked tickets
+* Admin panel for managing bus routes, schedules, and users
 
 # Technologies Used
 Frontend: React.js, HTML, CSS
