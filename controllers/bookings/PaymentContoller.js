@@ -1,4 +1,4 @@
-const stripe = require("stripe")(process.env.stripe_key);
+const stripe = require("stripe")(process.env.STRIPE_KEY);
 const { v4: uuidv4 } = require("uuid");
 const paymentGateWay = async (req, res) => {
   try {
